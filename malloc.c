@@ -1,4 +1,4 @@
-//Name= Avijeet Adhikari 
+//Name= Avijeet Adhikari UT Arlington
 
 #include <assert.h>
 #include <stdio.h>
@@ -25,6 +25,7 @@ static int num_requested     = 0;
 static int max_heap          = 0;
 
 /*
+ *
  *  \brief printStatistics
  *
  *  \param none
