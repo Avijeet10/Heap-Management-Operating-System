@@ -14,7 +14,7 @@ First-Fit: libmalloc-ff.so
 Next-Fit:  libmalloc-nf.so
 Worst-Fit: libmalloc-wf.so
 
-What the program does?
+What this program does?
 Using the framework of malloc and free provided on the course github repository:
 1. Implement splitting and coalescing of free blocks. If two free blocks are adjacent then combine them. If a free block is larger than the requested size then split the block into two.
 2. Implement three additional heap management strategies: Next Fit, Worst Fit, Best Fit (First Fit has already been implemented for you).
