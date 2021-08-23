@@ -1,4 +1,4 @@
-//Name= Avijeet Adhikari UT Arlington
+//Name= Avijeet Adhikari
 
 #include <assert.h>
 #include <stdio.h>
