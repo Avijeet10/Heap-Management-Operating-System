@@ -1,4 +1,4 @@
-//This is test case and append in test case.
+//This is test case.
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
