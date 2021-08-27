@@ -1,4 +1,4 @@
- //This is added for bfwf.c
+ //This is added for bfwf.c and squash checking
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
