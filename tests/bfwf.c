@@ -1,4 +1,4 @@
- //This is bfwf.c
+ //This is added for bfwf.c
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
