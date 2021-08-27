@@ -1,4 +1,4 @@
-//test1.c
+//test3.c
 #include <stdlib.h>
 #include <stdio.h>
 
