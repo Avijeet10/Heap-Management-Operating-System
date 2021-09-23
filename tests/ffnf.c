@@ -1,4 +1,4 @@
-//ffnf.c git check
+//ffnf.c UTA
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
