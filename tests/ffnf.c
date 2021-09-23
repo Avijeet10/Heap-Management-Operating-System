@@ -1,4 +1,4 @@
-//ffnf.c
+//ffnf.c git check
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
