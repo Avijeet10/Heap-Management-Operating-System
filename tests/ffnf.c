@@ -1,4 +1,4 @@
-//ffnf.c UTA
+//ffnf.c batch1
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
