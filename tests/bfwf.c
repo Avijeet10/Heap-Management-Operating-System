@@ -1,4 +1,3 @@
- //This is added for bfwf.c and squash
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
