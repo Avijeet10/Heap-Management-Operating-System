@@ -1,6 +1,9 @@
 //This is child branch test after addition
+//merge check
+//merge check
 //comment from master
 //copmment from master
 //second attempt
+//merge check
 /comment from master
 //This is only in parent
